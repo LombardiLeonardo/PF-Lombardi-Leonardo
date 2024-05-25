@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -6,6 +7,16 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+>>>>>>> 99761d0bb0d45452c458738aee0312d17fe3d0af
 
 <url>
   <loc>https://lombardileonardo.github.io/unioncocina/</loc>
@@ -111,7 +122,13 @@
   <loc>https://lombardileonardo.github.io/unioncocina/recetas/paella_mariscos.html</loc>
   <lastmod>2024-05-14T02:17:35+00:00</lastmod>
   <priority>0.64</priority>
+<<<<<<< HEAD
 </url>
 
 
+=======
+</url>
+
+
+>>>>>>> 99761d0bb0d45452c458738aee0312d17fe3d0af
 </urlset>
